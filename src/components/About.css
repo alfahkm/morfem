@@ -1,0 +1,28 @@
+.about {
+  padding: 2rem;
+  color: white;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.about h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.about p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.band-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto 0 auto;
+  border-radius: 8px;
+}

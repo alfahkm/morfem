@@ -1,0 +1,30 @@
+.footer {
+  padding: 1.5rem 2rem;
+  background-color: #142a8f;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.footer.fade-in {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.social-icons {
+  margin-top: 0.5rem;
+}
+
+.social-icons a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #a3b1ff;
+}
