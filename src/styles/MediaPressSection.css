@@ -1,6 +1,6 @@
 .media-press-section {
   padding: 60px 20px;
-  background-color: #001f8b;
+  background-color: #000000;
   color: #e0e0e0;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
@@ -9,7 +9,7 @@
 .media-press-section h2 {
   font-size: 2.5rem;
   margin-bottom: 40px;
-  color: #ffffff;
+  color: #ff66c4;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
@@ -29,7 +29,7 @@
 }
 
 .media-press-item:hover {
-  background-color: rgba(0, 255, 234, 0.1);
+  background-color: rgba(255, 102, 196);
 }
 
 .media-press-link {

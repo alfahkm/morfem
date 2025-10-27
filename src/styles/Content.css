@@ -1,7 +1,7 @@
 .content {
   min-height: 100vh;
-  background-color: #001f8b;
-  color: #fff;
+  background-color: #000000;
+  color: #ff66c4;
   padding: 80px 40px;
   opacity: 0;
   transform: translateY(20px);
@@ -32,7 +32,7 @@
 }
 
 .album-item {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(0, 0, 0, 0.05);
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s ease;
@@ -109,7 +109,7 @@
 }
 
 .listen-btn:hover {
-  background: #f0f0f0;
+  background: #ff66c4;
   transform: translateY(-2px);
   animation-play-state: paused;
 }

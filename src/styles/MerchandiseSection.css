@@ -1,6 +1,6 @@
 .merchandise-section {
   padding: 60px 20px;
-  background-color: #001f8b;
+  background-color: #000000;
   color: #e0e0e0;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
@@ -22,7 +22,7 @@
 }
 
 .merch-item {
-  background-color: rgba(0, 255, 234, 0.1);
+  background-color: rgba(255, 102, 196);
   border: 1px solid #ffffff;
   border-radius: 8px;
   padding: 20px;

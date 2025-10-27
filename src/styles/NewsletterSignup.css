@@ -1,6 +1,6 @@
 .newsletter-signup {
   padding: 60px;
-  background-color: #001f8b;
+  background-color: #000000;
   color: #e0e0e0;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
@@ -9,7 +9,7 @@
 .newsletter-signup h2 {
   font-size: 2.5rem;
   margin-bottom: 40px;
-  color: #ffffff;
+  color: #ff66c4;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
