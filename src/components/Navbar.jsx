@@ -32,7 +32,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <div className="header-content">
-        <h1 className="header-title">PORTOFOLIO ALFA</h1>
+        <h1 className="header-title">MORFEM</h1>
         <nav className="nav">
           {isMobile ? (
             <>
